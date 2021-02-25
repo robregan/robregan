@@ -7,6 +7,5 @@ robregan/robregan is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 ---> here is a meme!
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
