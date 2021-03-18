@@ -1,21 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rob!</h1>
-<h3 align="center">A passionate software engineer from New Jersey!</h3>
+### Hi there 👋, my name is Rob.
+#### I am a **Fullstack** JavaScript Web Developer.
+![I am a **Fullstack** JavaScript Web Developer.](https://cryptonavia-showcase-production-media.s3.amazonaws.com/media/images/github-logo-770x515.original.width-1000.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robregan&label=Profile%20views&color=0e75b6&style=flat" alt="robregan" /> </p>
+From Point Pleasant, NJ
 
-<p align="left"> <a href="https://twitter.com/rob_regan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/rob_regan_dev?logo=twitter&style=for-the-badge" alt="rob_regan_dev" /></a> </p>
+Skills: JavaScript / Node.js / React.js 
 
-- 🌱 Currently working on projects with **Fullstack JavaScript**
+- 📫 How to reach me: robert_regan86@yahoo.com 
 
-- 👨‍💻 Here is my portfolio [https://robregan.dev](https://robregan.dev)
 
-- 📫 How to reach me **robert_regan86@yahoo.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/robregan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/rob_regan_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robert-regan-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rob_regan_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](robregan.dev)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/rob_regan_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rob_regan_dev" height="30" width="40" /></a>
-<a href="https://twitter.com/rob_regan_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rob_regan_dev" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=robregan)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+![Profile views](https://gpvc.arturio.dev/robregan)  
