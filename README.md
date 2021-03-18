@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/rob_regan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/rob_regan_dev?logo=twitter&style=for-the-badge" alt="rob_regan_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack JavaScript**
+- 🌱 Currently working on projects with **Fullstack JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://robregan.dev](https://robregan.dev)
+- 👨‍💻 Here is my portfolio [https://robregan.dev](https://robregan.dev)
 
 - 📫 How to reach me **robert_regan86@yahoo.com**
 
