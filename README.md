@@ -2,7 +2,7 @@
 #### I am a **Fullstack** JavaScript Web Developer.
 ![I am a **Fullstack** JavaScript Web Developer.](https://cryptonavia-showcase-production-media.s3.amazonaws.com/media/images/github-logo-770x515.original.width-1000.jpg)
 
-From Point Pleasant, NJ
+From Point Pleasant, NJ!
 
 Skills: JavaScript / Node.js / React.js 
 
