@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rob.
 #### I am a **Fullstack** JavaScript Web Developer.
-![I am a **Fullstack** JavaScript Web Developer.](https://cryptonavia-showcase-production-media.s3.amazonaws.com/media/images/github-logo-770x515.original.width-1000.jpg)
+![I am a **Fullstack** JavaScript Web Developer.](https://res.cloudinary.com/practicaldev/image/fetch/s--rIMJB0Lh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/881jdm7sdnril6hn3f3l.PNG)
 
 From Point Pleasant, NJ!
 
