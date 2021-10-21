@@ -6,7 +6,7 @@ From Point Pleasant, NJ!
 
 Skills: JavaScript / Node.js / React.js 
 
-- 📫 How to reach me: robert_regan86@yahoo.com 
+- 📫 How to reach me: rsr@robregan.dev 
 
 [<img src='https://res.cloudinary.com/storage-b0x/image/upload/v1627859337/in_abkmgt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robert-regan-dev/)
 [<img src='https://res.cloudinary.com/storage-b0x/image/upload/v1627859337/twit_regjhy.svg' alt='twitter' height='40'>](https://twitter.com/rob_regan_dev) 
