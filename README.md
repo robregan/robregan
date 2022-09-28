@@ -2,7 +2,7 @@
 #### I am a **Fullstack** JavaScript Developer.
 ![I am a **Fullstack** JavaScript Web Developer.](https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif)
 
-From NJ. But recently moved to Vermont to live the dream!!
+From NJ, but recently moved to Vermont to live the dream!!
 
 Skills: JavaScript / Node.js / React.js / Systems Engineering
 
